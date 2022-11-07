@@ -18,7 +18,8 @@ SECRET_KEY = 'django-insecure-_*()ov*4^2=^t-0e42%fch+oq%o1)2r^1mfvqxayj9uqj=ubg3
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '127.0.0.1'
+    '127.0.0.1',
+    'localhost',
     'friperi.herokuapp.com'
 ]
 
